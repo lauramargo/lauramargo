@@ -11,6 +11,7 @@
 - 📫 How to reach me ...
 - https://www.linkedin.com/in/lauramartinfrontendeveloper/
 
-<!---
+<!---<img width="372" alt="Captura de pantalla 2022-09-21 a las 16 39 18" src="https://user-images.githubusercontent.com/106525823/191534330-86830562-f373-4889-aeca-9629f382eecb.png">
+
 .
 --->
