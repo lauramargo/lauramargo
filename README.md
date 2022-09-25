@@ -1,3 +1,5 @@
+<img width="447" alt="Captura de pantalla 2022-09-25 a las 22 37 20" src="https://user-images.githubusercontent.com/106525823/192164671-13aeb0f9-b0e5-4e50-b08c-269464f24068.png"> 
+ 
  👋 Hi, I’m Laura Martín
  
 - Bienvenidos a mi rincón como junior developer frontend, como veréis soy nueva en este sector, pero cargo con una mochila de experiencias profesionales muy dispares que me agregan un gran valor añadido.
